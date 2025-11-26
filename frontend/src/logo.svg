@@ -1,0 +1,32 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 128 128"
+  role="img"
+  aria-label="Health Information System logo"
+>
+  <defs>
+    <linearGradient id="shieldGradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3bc4f4" />
+      <stop offset="100%" stop-color="#0479c5" />
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="60" fill="#031c30" />
+  <path
+    fill="url(#shieldGradient)"
+    d="M64 20c-16.8 0-34 5.2-34 14v28c0 21.5 15.3 40.7 34 46.2 18.7-5.5 34-24.7 34-46.2v-28c0-8.8-17.2-14-34-14z"
+  />
+  <path
+    fill="#ffffff"
+    d="M58 44h12v14h14v12H70v14H58V70H44V58h14z"
+  />
+  <circle cx="32" cy="36" r="6" fill="#3bc4f4" />
+  <circle cx="96" cy="32" r="5" fill="#8be0ff" />
+  <circle cx="28" cy="86" r="4" fill="#8be0ff" />
+  <path
+    d="M32 36c12 0 20 12 32 12s20-12 32-12"
+    fill="none"
+    stroke="#8be0ff"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+</svg>
