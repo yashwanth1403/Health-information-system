@@ -1,0 +1,25 @@
+{
+  "id": "DOC_051",
+  "title": "Lung Cancer",
+  "body": "**Key Facts:**\nLung cancer is the leading cause of cancer-related deaths worldwide, accounting for the highest mortality rates among both men and women. Smoking is responsible for approximately 85% of all cases. Lung cancer is often diagnosed at advanced stages when treatment options are limited. Screening high-risk individuals allows early detection and significantly improves survival rates. Primary prevention, including tobacco control and reducing environmental exposures, can reduce lung cancer incidence.\n\n**Overview:**\nLung cancer occurs when abnormal cells grow uncontrollably in the lungs. Common symptoms include a persistent cough, chest pain, and shortness of breath. Early medical care is crucial for better outcomes. The main types are non-small cell carcinoma (NSCLC), which grows slowly and is more common, and small cell carcinoma (SCLC), which grows quickly. According to GLOBOCAN 2020 (IARC), lung cancer caused an estimated 1.8 million deaths in 2020. Risk factors include smoking, secondhand smoke, occupational exposures (asbestos, radon, chemicals), air pollution, hereditary syndromes, and chronic lung diseases.\n\n**Symptoms:**\nCommon symptoms of lung cancer include:\n- Persistent cough\n- Chest pain\n- Shortness of breath\n- Coughing up blood (haemoptysis)\n- Fatigue\n- Unexplained weight loss\n- Recurrent lung infections\nEarly symptoms may be mild, causing delayed diagnosis.\n\n**Prevention:**\nAvoiding tobacco use is the most effective way to prevent lung cancer. Other preventable risk factors include secondhand smoke, air pollution, and workplace chemical exposure. Primary prevention focuses on smoking cessation, smoke-free environments, occupational safety, and air quality improvement. Secondary prevention includes screening, especially low-dose computed tomography (LDCT), for high-risk individuals to detect early disease.\n\n**Diagnosis:**\nLung cancer diagnosis involves physical examination, imaging (X-rays, CT, MRI), bronchoscopy, tissue biopsy for histopathology, and molecular testing to determine tumour type (NSCLC or SCLC) and guide treatment options.\n\n**Treatment and Care:**\nTreatment depends on cancer type, stage, spread, and patient history. Options include surgery, radiotherapy, chemotherapy, targeted therapy, and immunotherapy. Surgery is preferred for early-stage disease. Chemotherapy and radiation help shrink tumours. Multidisciplinary teams manage treatment. Supportive care focuses on pain relief, managing symptoms, and improving quality of life.\n\n**Stages of Care:**\n**a) Early-stage disease:** Surgery is the primary treatment when cancer is confined to the lung. Neoadjuvant therapy (before surgery) helps shrink tumours, while adjuvant therapy (after surgery) reduces recurrence risk. Radiation therapy or SBRT may be used when surgery is not possible. Targeted therapy and immunotherapy may also be considered.\n\n**b) Advanced disease:** For metastatic lung cancer, treatment focuses on prolonging survival and improving quality of life. Chemotherapy is often first-line. Targeted therapy is used for tumours with specific mutations. Immunotherapy helps the immune system attack cancer cells. Local treatments like radiation or surgery relieve symptoms.\n\n**Clinical Trials:**\nClinical trials offer patients access to new or experimental treatments and help advance lung cancer research.\n\n**WHO Response:**\nWHO works to reduce lung cancer burden through tobacco control, early detection, and improved cancer care. Initiatives include tobacco taxation, advertising bans, graphic health warnings, promoting healthy lifestyles, improving environmental conditions, supporting screening programs, and ensuring equitable access to essential cancer treatments.",
+  "category": "Infectious Diseases",
+  "tags": [
+    "lung cancer",
+    "cancer",
+    "tobacco control",
+    "NSCLC",
+    "SCLC",
+    "screening",
+    "LDCT",
+    "chemotherapy",
+    "radiotherapy",
+    "immunotherapy",
+    "public health",
+    "WHO"
+  ],
+  "source": "WHO",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer",
+  "year": 2023
+}
+
+

@@ -1,0 +1,17 @@
+{
+  "id": "DOC_106",
+  "title": "Child Growth",
+  "body": "Child malnutrition remains a major public health issue. Globally, about 144 million children under five are stunted, 47 million are wasted and 38.3 million have overweight or obesity. Roughly 45% of deaths among children under five are linked to undernutrition. Monitoring growth is crucial for child health surveillance: inadequate infant growth due to poor nutrition can lead to undernutrition in low- and middle-income countries and later transition to overweight or obesity when calorie intake rises. The WHO Child Growth Standards help track height and weight for boys and girls from birth to five years, identifying children or populations not growing properly, underweight, or at risk of overweight to guide clinical and public health responses. These standards are used in health facilities, research institutions, advocacy organizations and ministries of health worldwide.\n\n**Impact:**\n- **Stunting:** Children too short for their age due to chronic or recurrent malnutrition. Stunting contributes to child mortality and signals development inequities.\n- **Overweight:** Children too heavy for their height, often from low energy expenditure relative to intake or endocrine imbalances, raising later-life NCD risk.\n- **Wasting:** Children too thin for their height from recent rapid weight loss or failure to gain weight. Moderate or severe wasting markedly increases mortality risk but is treatable.\nWasting and overweight can coexist in populations: in 2020, 6.7% (45.4 million) and 5.7% (38.9 million) of children under five were wasted and overweight, respectively.\n\n**Prevention:**\nIn 2020, 22% (149.2 million) of children under five were stunted, down from 24.4% in 2015, but achieving a 50% reduction by 2030 requires doubling the annual decline from 2.1% to 3.9%. Key prevention pathways are consistent across malnutrition forms: adequate maternal nutrition before and during pregnancy and breastfeeding; optimal breastfeeding in the first two years; nutritious, diverse, and safe complementary foods in early childhood; and healthy environments with access to basic health care, water, hygiene, sanitation and safe physical activity. Threats—including COVID-19 disruptions—jeopardize progress; urgent action is needed to safeguard maternal and child nutrition, especially in hard-hit regions, ensuring every child’s right to nutrition.",
+  "category": "Child Health",
+  "tags": [
+    "child growth",
+    "malnutrition",
+    "stunting",
+    "wasting",
+    "overweight",
+    "WHO growth standards"
+  ],
+  "source": "WHO",
+  "url": "https://www.who.int/health-topics/child-growth#tab=tab_1",
+  "year": 2025
+}

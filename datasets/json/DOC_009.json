@@ -1,0 +1,21 @@
+{
+  "id": "DOC_009",
+  "title": "Breast Cancer",
+  "body": "Breast cancer caused an estimated 670 000 deaths globally in 2022. Roughly half of all breast cancers occur in women with no specific risk factors other than sex and age. Breast cancer was the most common cancer in women in 157 countries out of 185 in 2022. Breast cancer occurs in every country in the world. Approximately 0.5–1% of breast cancers occur in men. Effective interventions for early and timely diagnosis linked to comprehensive treatment, rehabilitation and palliative care are essential to reduce the burden of breast cancer and to achieve and maintain optimal functioning and well-being.\n\n**Overview:**\nBreast cancer is a disease in which abnormal breast cells grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal. Breast cancer cells begin inside the milk ducts and/or lobules. Early breast cancer (in situ) is not life-threatening and can be detected early. Invasive breast cancer spreads to nearby tissue and can metastasize.\n\n**Scope of the problem:**\nIn 2022, there were an estimated 2.3 million cases and 670 000 deaths globally. The incidence varies based on human development. High HDI countries show high diagnosis but lower mortality, while low HDI countries show lower incidence but higher mortality.\n\n**Who is at risk? / Risk factors:**\nFemale gender is the strongest factor, with ~99% of breast cancers occurring in women. Other risk factors include age, obesity, harmful alcohol use, family history, radiation exposure, reproductive history, tobacco use and hormone therapy. Some cancers occur without known risk factors. Genetic mutations such as BRCA1, BRCA2, and PALB2 increase breast cancer risk.\n\n**Early Detection:**\nEarly diagnosis includes awareness of symptoms and prompt medical evaluation. Screening via mammography is recommended for women aged 50–69.\n\n**Signs and Symptoms:**\nSymptoms may include:\n- lumps or thickening in the breast\n- breast size or shape changes\n- skin changes such as dimpling or redness\n- nipple changes or discharge\n- swollen lymph nodes\n\n**Management of Breast Cancer:**\nTreatment depends on stage and type. It may include:\n- surgery (lumpectomy or mastectomy)\n- radiation therapy\n- medication (chemotherapy, hormone therapy, targeted biological therapy)\nTreatment is most effective when started early and completed fully.\n\n**Global Impact:**\nMortality has decreased by ~40% in high-income countries since the 1980s. Countries that consistently apply evidence-based diagnosis and treatment see annual reductions in mortality between 2–4%.\n\n**WHO Response:**\nWHO leads the Global Breast Cancer Initiative (GBCI) launched in 2021. Its goal is to reduce breast cancer mortality by 2.5% annually and prevent 2.5 million deaths by 2040 through health promotion, timely diagnosis and comprehensive treatment.",
+  "category": "Chronic Diseases",
+  "tags": [
+    "breast cancer",
+    "cancer",
+    "oncology",
+    "women's health",
+    "GBCI",
+    "mammography",
+    "chemotherapy",
+    "hormone therapy",
+    "BRCA mutation",
+    "WHO"
+  ],
+  "source": "WHO",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer",
+  "year": 2025
+}

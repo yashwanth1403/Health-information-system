@@ -1,0 +1,21 @@
+{
+  "id": "DOC_008",
+  "title": "Malaria",
+  "body": "Overview:\nMalaria is a serious and life-threatening disease caused by parasites transmitted through the bites of infected female *Anopheles* mosquitoes. The disease is preventable and curable. Five parasite species are known to cause malaria in humans, with *Plasmodium falciparum* and *Plasmodium vivax* posing the greatest risk.\n\nAs of 2023, almost half of the global population was at risk of malaria. While sub-Saharan Africa bears the highest burden, cases are also reported in the WHO Regions of South-East Asia, Eastern Mediterranean, Western Pacific, and the Americas.\n\nIn 2023, an estimated 263 million malaria cases and approximately 597,000 malaria-related deaths occurred globally. The African Region accounted for 94% of cases and 95% of deaths. Children under 5 remain the most vulnerable group, representing nearly 76% of all malaria deaths in the WHO African Region.\n\nSymptoms:\nMalaria presents as an acute febrile illness. Symptoms typically appear 10–15 days after the infective mosquito bite. Early signs include fever, chills, and headache, which may be difficult to distinguish from other illnesses.\n\nIf left untreated within 24 hours, *Plasmodium falciparum* malaria can progress to severe disease and may be fatal.\n\nSevere malaria in children may result in symptoms such as severe anaemia, respiratory distress linked to metabolic acidosis, or cerebral malaria. Adults may develop multi-organ failure. In endemic regions, partial immunity may develop over time, leading to asymptomatic infections.\n\nCertain groups are at greater risk of severe disease, including infants, children under five, pregnant women, individuals with HIV/AIDS, non-immune migrants, travellers, and mobile populations. National malaria control programmes must tailor prevention measures for these high-risk populations.\n\nTreatment:\nMalaria is treatable and preventable. Early diagnosis and timely treatment reduce disease severity and prevent deaths while also limiting transmission.\n\nThe recommended first-line treatment for *Plasmodium falciparum* malaria is artemisinin-based combination therapy (ACT). Preventive antimalarial medicines are also available.\n\nTravellers to malaria-endemic regions may prevent infection through chemoprophylaxis, which suppresses the blood stage of malaria. Travellers should seek professional medical or public health advice prior to travel.\n\nWHO recommends effective malaria vector control strategies to protect populations at risk.\n",
+  "category": "Infectious Diseases",
+  "tags": [
+    "malaria",
+    "mosquito-borne disease",
+    "parasite infection",
+    "Plasmodium falciparum",
+    "Plasmodium vivax",
+    "ACT therapy",
+    "vector control",
+    "preventive medicine",
+    "public health",
+    "WHO"
+  ],
+  "source": "WHO",
+  "url": "https://www.who.int/health-topics/malaria",
+  "year": 2024
+}

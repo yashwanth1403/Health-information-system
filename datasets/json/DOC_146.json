@@ -1,0 +1,17 @@
+{
+  "id": "DOC_146",
+  "title": "Type 1 diabetes treatment",
+  "body": "**Main treatments:**\nNewly diagnosed people are initially managed in hospital by a specialist diabetes team, who teach ongoing self-management. Insulin therapy is essential to control blood glucose. Patients learn to keep glucose within target ranges by monitoring levels and adjusting insulin doses, often through carbohydrate counting. Care plans cover insulin selection and dosing schedules, blood glucose targets, regular HbA1c reviews (2–4 times/year), hypo/hyper awareness and management, lifestyle guidance (diet, alcohol, driving, exercise, sick-day rules), complication screening, and wellbeing support. Equipment (e.g., glucose meters, insulin delivery tools) is provided, and regular follow-up appointments are scheduled.\n\n**Insulin:**\nMultiple insulin types are taken at different times. Doses are calculated and delivered via injections (pens) several times daily or via insulin pumps. Excess insulin can cause hypoglycaemia; patients are trained to recognise and treat hypos. Insulin regimens are individualised. People with type 1 diabetes qualify for free prescriptions in the UK.\n\n**Insulin pumps:**\nContinuous subcutaneous insulin infusion devices reduce hypos and improve glucose control. Eligibility on the NHS includes inability to meet HbA1c targets without severe hypos or persistently high HbA1c despite optimal management; pumps are recommended for children under 12 who struggle with multiple daily injections.\n\n**Hybrid closed loop systems:**\nSome pumps integrate with continuous glucose monitors (CGM) to automate insulin dosing. These systems lessen hypos, improve glucose control, and reduce management burden. Availability on the NHS is expanding, with priority for individuals under 18, those pregnant/planning pregnancy, or those not achieving control with pump or CGM alone.\n\n**Appointments and tests:**\nAt least annual diabetes check-ups (more frequent initially) include HbA1c (past 8–12 weeks), weight/BMI, cholesterol, blood pressure, kidney and thyroid function, and mental wellbeing assessments. Additional routine care includes HbA1c tests every 3–6 months, diabetic eye screening every 1–2 years, and annual foot checks. Children under 12 may require fewer tests.\n\n**Diabetes courses:**\nEducation programmes (free within 1 year of diagnosis) build confidence and self-management skills. Options include DAFNE (Dose Adjustment for Normal Eating) and BERTIE Diabetes (online). Courses cover insulin adjustment, diet, and practical living strategies.\n",
+  "category": "Chronic Conditions",
+  "tags": [
+    "type 1 diabetes",
+    "insulin",
+    "insulin pumps",
+    "closed loop",
+    "NHS"
+  ],
+  "source": "NHS",
+  "url": "https://www.nhs.uk/conditions/type-1-diabetes/treatment/",
+  "year": 2024
+}
+

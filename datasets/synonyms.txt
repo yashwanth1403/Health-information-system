@@ -1,0 +1,36 @@
+bp, blood pressure
+sugar, blood sugar, diabetes
+heart attack, myocardial infarction, cardiac arrest
+tb, tuberculosis
+covid, coronavirus, sars cov 2, covid-19
+obesity, overweight
+depression, major depressive disorder, sadness
+mental health, psychological health, emotional well-being
+hypertension, high blood pressure, HBP
+flu, influenza, grippe
+asthma, bronchial asthma, airway inflammation
+cancer, malignancy, tumor
+stroke, cerebrovascular accident, brain attack
+anemia, low hemoglobin, iron deficiency
+allergy, hypersensitivity, allergic reaction
+kidney stone, nephrolithiasis, renal calculus
+arthritis, joint inflammation, osteoarthritis
+hepatitis, liver inflammation, hepatic infection
+cholesterol, hyperlipidemia, high lipids
+ulcer, peptic ulcer, stomach sore
+migraine, severe headache, vascular headache
+insomnia, sleeplessness, difficulty sleeping
+anxiety, generalized anxiety disorder, nervousness
+fatty liver, hepatic steatosis, NAFLD
+thyroid disorder, hypothyroidism, hyperthyroidism
+pcos, polycystic ovary syndrome, hormonal imbalance
+cardiovascular disease, heart disease, CVD
+malnutrition, undernutrition, wasting
+breast cancer, mammary carcinoma, carcinoma of the breast
+chronic kidney disease, CKD, renal failure
+liver cancer, hepatocellular carcinoma, hepatic tumor
+hypothyroidism, underactive thyroid, Hashimoto's disease
+malaria, plasmodium infection, mosquito-borne fever
+nutrition, healthy diet, dietary health
+ageing, aging, older adults
+
