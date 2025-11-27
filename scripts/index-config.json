@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "english_analyzer": {
+          "type": "standard"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "english_analyzer"
+      },
+      "body": {
+        "type": "text",
+        "analyzer": "english_analyzer"
+      },
+      "category": {
+        "type": "keyword"
+      },
+      "subcategory": {
+        "type": "keyword"
+      },
+      "tags": {
+        "type": "keyword"
+      },
+      "source": {
+        "type": "keyword"
+      },
+      "year": {
+        "type": "integer"
+      }
+    }
+  }
+}

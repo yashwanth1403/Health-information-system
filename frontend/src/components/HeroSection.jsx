@@ -10,10 +10,9 @@ function HeroSection({
   return (
     <div className="hero">
       <p className="eyebrow">Health Knowledge Base</p>
-      <h1>Search trusted health information in seconds</h1>
-      <p className="subhead">
-        Explore curated WHO guidance on chronic diseases, mental health,
-        prevention strategies, and more.
+      <h1>Health Information Search System</h1>
+      <p className="sdg-tagline">
+        Supporting SDG 3: Good Health and Well-Being
       </p>
       <SearchBar
         query={query}

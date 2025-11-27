@@ -118,7 +118,7 @@ router.get("/:id", async (req, res) => {
                       query,
                       fields: ["title^8", "tags^4", "body^2"],
                       type: "best_fields",
-                      operator: "and",
+                      operator: "or",
                       fuzziness: "AUTO",
                     },
                   },
@@ -142,7 +142,7 @@ router.get("/:id", async (req, res) => {
           fields: {
             title: { number_of_fragments: 0 },
             body: { number_of_fragments: 0 },
-            tags: { number_of_fragments: 5 },
+            tags: { number_of_fragments: 0 },
           },
           pre_tags: ["<mark>"],
           post_tags: ["</mark>"],
